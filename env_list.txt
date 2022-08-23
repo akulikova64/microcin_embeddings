@@ -1,0 +1,11 @@
+My virtual environments:
+
+1) embed (for bio_embeddings)
+
+2) esm (for the esm1-b model) 
+conda activate esm
+
+3) miniforge (where tensorflow/keras are installed)
+
+for miniforge, run the following command:
+source ~/miniforge3/bin/activate
