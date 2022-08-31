@@ -1,6 +1,0 @@
-2022-08-18 11:34:21 INFO     START LOG
-2022-08-18 11:34:21 INFO     Python info: 3.10.5 | packaged by conda-forge | (main, Jun 14 2022, 07:05:37) [Clang 13.0.1 ]
-2022-08-18 11:34:21 INFO     orfipy version: 0.0.4
-2022-08-18 11:34:21 INFO     orfipy ./genomes/Ecoli_S88.fna --min 30 --max 1000000000 --procs 8 --chunk-size 1000 --strand b --start TTG,CTG,ATG --stop TAA,TAG,TGA --table 1 --dna e_coli_orfs.fasta --outdir ./ORFs_ecoli_s88
-2022-08-18 11:34:22 INFO     Processed 2 sequences in 0.66 seconds
-2022-08-18 11:34:22 INFO     END

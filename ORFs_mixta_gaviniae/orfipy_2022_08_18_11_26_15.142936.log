@@ -1,6 +1,0 @@
-2022-08-18 11:26:15 INFO     START LOG
-2022-08-18 11:26:15 INFO     Python info: 3.10.5 | packaged by conda-forge | (main, Jun 14 2022, 07:05:37) [Clang 13.0.1 ]
-2022-08-18 11:26:15 INFO     orfipy version: 0.0.4
-2022-08-18 11:26:15 INFO     orfipy mixta_gaviniae_genome.fna --min 30 --max 1000000000 --procs 8 --chunk-size 1000 --strand b --start TTG,CTG,ATG --stop TAA,TAG,TGA --table 1 --dna orfs.fasta --outdir ./
-2022-08-18 11:26:15 INFO     Processed 1 sequences in 0.63 seconds
-2022-08-18 11:26:15 INFO     END
